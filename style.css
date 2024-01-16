@@ -1,0 +1,24 @@
+body {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  flex-wrap: wrap;
+  font-family: Courier;
+  font-size: 13px;
+  }
+
+.page {
+  width: 280px;
+  height: 480px;
+  border-width: 1px;
+  margin-right: 25%;
+  margin-left: 1%;
+  margin-top: 20px;
+  overflow: hidden;
+
+}
+
+p {
+  margin: 0;
+  padding: 0;
+}
